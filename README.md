@@ -40,3 +40,4 @@ You have 30 text files scattered across a nested directory structure. Your job i
 - Use `find`, `grep`, `cut`, `mkdir`, `mv` commands
 - Quote paths properly to handle spaces and special characters
 # StatsQuest
+# StatsQuest
